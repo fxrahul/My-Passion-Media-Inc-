@@ -1,0 +1,1 @@
+select concat(x.firstName, ' ', x.lastName) as fullName, concat(x.address, ' ', x.city, ' ', x.postalCode) as currentAddress from (select e.employeeID, e.firstName, e.lastName, a.address,a.city,a.postalCode, a.provinceID from employees as e left join addresses as a on e.employeeID = a.employeeID) as x left join provinces p on x.provinceID = p.provinceID
