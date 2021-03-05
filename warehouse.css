@@ -1,0 +1,116 @@
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: #4CAF50;
+    color: white;
+  }
+
+.main{
+    display : flex;
+    justify-content : center;
+    align-items : center;
+}
+.products{
+    margin : 5px;
+    display : flex;
+    justify-content : center;
+    align-items : center;
+}
+.products select {
+    width : 110px;
+}
+.newProduct{
+    display: none;
+}
+.weight{
+    margin : 5px;
+    display : flex;
+    justify-content : center;
+    align-items : center;
+}
+.dimensions{
+    margin : 5px;
+    display : flex;
+    justify-content : center;
+    align-items : center;
+}
+
+.dimension input, .dimension span{
+    display : inline-block;
+}
+input{
+    width : 110px;
+}
+.weight input{
+    width : 50px;
+}
+.dimension input{
+    width : 50px;
+}
+
+h2, .select, .input, .dimension{
+    display : inline-block !important;
+}
+.submit{
+    margin: 5px;
+    display : flex;
+    justify-content : center;
+    align-items : center;
+}
+.submit button{
+    border-radius: 5px;
+}
+.title{
+    display : flex;
+    justify-content : center;
+    align-items : center;
+}
+.message{
+    display : flex;
+    justify-content : center;
+    align-items : center;
+}
+
+.productTable{
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.productTable th{
+    padding-left: 30px;
+}
+
+.productTable td{
+    padding-left : 30px;
+    padding-top : 5px;
+    padding-bottom : 5px;
+    padding-right: 5px;
+}
+
+.back{
+    display : flex;
+    justify-content : center;
+    align-items : center;
+    border-radius: 10px;
+    margin: auto auto;
+}
+
