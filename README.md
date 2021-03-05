@@ -16,7 +16,9 @@ Open your terminal and then type
 [Generating Image using PHP GD](https://github.com/fxrahul/My-Passion-Media-Inc-/blob/master/image.php)
 
 ## Problem 2:
-[Employee Name and Address](https://github.com/fxrahul/My-Passion-Media-Inc-/blob/master/Employees.png)
+[Employee Name and Address](https://github.com/fxrahul/My-Passion-Media-Inc-/blob/master/Employees.txt)
 
 ### Problem 3:
 [Warehouse Management](https://github.com/fxrahul/My-Passion-Media-Inc-/blob/master/warehouseFront.php)
+
+[HomePage](https://github.com/fxrahul/My-Passion-Media-Inc-/blob/master/warehouseFront.php)
