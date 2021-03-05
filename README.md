@@ -21,4 +21,4 @@ Open your terminal and then type
 ### Problem 3:
 [Warehouse Management](https://github.com/fxrahul/My-Passion-Media-Inc-/blob/master/warehouseFront.php)
 
-[HomePage](https://github.com/fxrahul/My-Passion-Media-Inc-/blob/master/warehouseFront.php)
+[Home Page](https://github.com/fxrahul/My-Passion-Media-Inc-/blob/master/warehouseFront.php)
