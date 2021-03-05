@@ -1,4 +1,6 @@
 <?php
+
+//created House and Sun using PHP GD Library...
     header("Content-type: image/jpeg");
     $imgWidth = 800;
     $imgHeight = 600;
